@@ -37,8 +37,10 @@ This project is not production-ready and is currently incomplete!
 - Utilize or Steal Code: Feel free to extract shaders or specific parts of the code, such as meshing or spline construction, for your projects.
 
 # Known problems
-- Divergence of edges in water surfaces
-- Problems with filtering on High End shader
+- Divergence of edges in water surfaces.
+- Problems with filtering on High End shader.
+- There can be crashes on unsupported settings values.
+- Overall, there are some problems with shaders visual appereance.
 
 # Getting Started
 To get started with UWS, create UWS folder in your project Assets folder and clone repository content into it.
