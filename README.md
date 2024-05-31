@@ -16,9 +16,9 @@ Welcome to the Universal Water System (UWS) repository, a Unity plugin designed 
 - Shaders for various targets: Setup once and run across various platforms.
 
 # Spline system
-- Ocean - The primary spline, beyond which the ocean will be rendered, and inside which nothing will be rendered. All other splines, except for the Pool, must be located within the Ocean.
+- Ocean - The primary spline, beyond which the ocean will be rendered, and inside which nothing will be rendered. All other splines, except for the Pool and Island, must be located within the Ocean.
 - Lake - Within this spline, there is a body of water inside the Ocean.
-- Island - Within this spline, there will be no water inside the Lake/River.
+- Island - Within this spline, there will be no water inside the Lake/River/Ocean.
 - River - Water within the Ocean that flows according to an auto-generated flowmap.
 - Pool - Water within this spline that is independent of Lakes, Rivers, and Islands.
 
