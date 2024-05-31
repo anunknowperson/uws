@@ -5,7 +5,7 @@ Welcome to the Universal Water System (UWS) repository, a Unity plugin designed 
 
 
 # Features
-- Oceans, Rivers, and Land: Easily create and customize various water bodies using a robust spline-based system.
+- Oceans, Rivers, Lakes, Islands and Pools: Easily create and customize various water bodies using a robust spline-based system.
 - Simple underwater effects.
 - Planar reflections with addition camera.
 - Cubemap Reflections.
@@ -14,6 +14,15 @@ Welcome to the Universal Water System (UWS) repository, a Unity plugin designed 
 - Automatic flowmap generation.
 - User-Friendly Tools: Intuitive tools within the Unity editor for seamless integration and customization.
 - Shaders for various targets: Setup once and run across various platforms.
+
+# Spline system
+- Ocean - The primary spline, beyond which the ocean will be rendered, and inside which nothing will be rendered. All other splines, except for the Pool, must be located within the Ocean.
+- Lake - Within this spline, there is a body of water inside the Ocean.
+- Island - Within this spline, there will be no water inside the Lake/River.
+- River - Water within the Ocean that flows according to an auto-generated flowmap.
+- Pool - Water within this spline that is independent of Lakes, Rivers, and Islands.
+
+Within an Island, there can be a Lake, which may contain another Island, and so on...
 
 # Platform Implementations
 - Mobile:
