@@ -1,0 +1,18 @@
+{
+    "name": "UWS_Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a40b5736bff8132408c951cc3918a14c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

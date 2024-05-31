@@ -1,0 +1,17 @@
+{
+    "name": "UWS",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5153a53e0afec444d9c1cd120e37a8b1",
+        "GUID:2adc53ac4a4dde7498ad40d00fbdf23b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
