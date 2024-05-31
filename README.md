@@ -50,6 +50,6 @@ This project is licensed under the Apache 2.0 License. See the LICENSE file for 
 For any questions or feedback, please open an issue on GitHub or reach out to me (discord: maestro8209).
 
 # Credits:
-GLSL FFT implementation: https://github.com/jbouny/fft-ocean/tree/master
-Clipper C#
-Poly2Tri
+- GLSL FFT implementation: https://github.com/jbouny/fft-ocean/tree/master
+- Clipper C#
+- Poly2Tri
