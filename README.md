@@ -1,5 +1,48 @@
-# aws
-Advanced Water System for Unity
+# UWS - Universal Water System
+Welcome to the Universal Water System (UWS) repository, a Unity plugin designed to add water surfaces such as oceans, rivers, and land using spline union and intersection. This system is inspired by the water system in Unreal Engine, offering powerful tools and flexible implementations for different platforms.
 
-Credits:
-FFT implementation: https://github.com/jbouny/fft-ocean/tree/master
+# Features
+- Oceans, Rivers, and Land: Easily create and customize various water bodies using a robust spline-based system.
+- User-Friendly Tools: Intuitive tools within the Unity editor for seamless integration and customization.
+- Cross-Platform Solutions: Implement once and deploy across all platforms with tailored solutions for each.
+
+# Platform Implementations
+- Mobile:
+Flat shader with moving texture and static low-poly meshes.
+
+- Mid-Range:
+Gerstner wave-based shader.
+Real-time multithreaded meshing.
+Reflections and refraction effects.
+
+- High-Performance PCs:
+Real-time multithreaded quad tree-based mesh detailing.
+Realistic reflections using a second camera.
+Refraction effects.
+Realistic depth rendering.
+FFT-based wave simulation.
+
+# Project Status
+This project is not production-ready and is currently incomplete!
+
+What You Can Do
+
+- Fix Bugs and Optimize Performance: Adapt and customize the system to fit your needs.
+- Utilize or Steal Code: Feel free to extract shaders or specific parts of the code, such as meshing or spline construction, for your projects.
+
+# Getting Started
+To get started with UWS, create UWS folder in your project Assets folder and clone repository content into it.
+
+Unity version: 2020.3.30f1
+
+# Contributing
+Contributions are welcome! If you find bugs, want to optimize the system, or add new features, please fork the repository and submit a pull request.
+
+# License
+This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
+
+# Contact
+For any questions or feedback, please open an issue on GitHub or reach out to me (discord: maestro8209).
+
+# Credits:
+GLSL FFT implementation: https://github.com/jbouny/fft-ocean/tree/master
