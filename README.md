@@ -53,6 +53,7 @@ This project is not production-ready and is currently incomplete!
 - Problems with filtering on High End shader.
 - There can be crashes on unsupported settings values.
 - Overall, there are some problems with shaders visual appereance.
+- Reflection Camera spam on each scene reopen in editor (easiest to fix).
 
 # Getting Started
 To get started with UWS, create UWS folder in your project Assets folder and clone repository content into it.
