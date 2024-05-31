@@ -9,6 +9,7 @@ Welcome to the Universal Water System (UWS) repository, a Unity plugin designed 
 - Simple underwater effects.
 - Planar reflections with addition camera.
 - Realtime QuadTree LOD.
+- Automatic flowmap generation.
 - User-Friendly Tools: Intuitive tools within the Unity editor for seamless integration and customization.
 - Shaders for various targets: Setup once and run across various platforms.
 
