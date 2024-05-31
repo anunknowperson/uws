@@ -11,27 +11,31 @@ Welcome to the Universal Water System (UWS) repository, a Unity plugin designed 
 
 # Platform Implementations
 - Mobile:
-Flat shader with moving texture and static low-poly meshes.
+    - Flat shader with moving texture and static low-poly meshes.
 
 - Mid-Range:
-Gerstner wave-based shader.
-Real-time multithreaded meshing.
-Reflections and refraction effects.
+    - Gerstner wave-based shader.
+    - Real-time multithreaded meshing.
+    - Reflections and refraction effects.
 
 - High-Performance PCs:
-Real-time multithreaded quad tree-based mesh detailing.
-Realistic reflections using a second camera.
-Refraction effects.
-Realistic depth rendering.
-FFT-based wave simulation.
+    - Real-time multithreaded quad tree-based mesh detailing.
+    - Realistic reflections using a second camera.
+    - Refraction effects.
+    - Realistic depth rendering.
+    - FFT-based wave simulation.
 
 # Project Status
 This project is not production-ready and is currently incomplete!
 
-What You Can Do
+# What You Can Do
 
 - Fix Bugs and Optimize Performance: Adapt and customize the system to fit your needs.
 - Utilize or Steal Code: Feel free to extract shaders or specific parts of the code, such as meshing or spline construction, for your projects.
+
+# Known problems
+- Divergence of edges in water surfaces
+- Problems with filtering on High End shader
 
 # Getting Started
 To get started with UWS, create UWS folder in your project Assets folder and clone repository content into it.
