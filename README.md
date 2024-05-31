@@ -6,8 +6,11 @@ Welcome to the Universal Water System (UWS) repository, a Unity plugin designed 
 
 # Features
 - Oceans, Rivers, and Land: Easily create and customize various water bodies using a robust spline-based system.
+- Simple underwater effects.
+- Planar reflections with addition camera.
+- Realtime QuadTree LOD.
 - User-Friendly Tools: Intuitive tools within the Unity editor for seamless integration and customization.
-- Cross-Platform Solutions: Implement once and deploy across all platforms with tailored solutions for each.
+- Shaders for various targets: Setup once and run across various platforms.
 
 # Platform Implementations
 - Mobile:
