@@ -38,6 +38,8 @@ To get started with UWS, create UWS folder in your project Assets folder and clo
 
 Unity version: 2020.3.30f1
 
+Sample project: https://github.com/anunknowperson/uws-demo/
+
 # Contributing
 Contributions are welcome! If you find bugs, want to optimize the system, or add new features, please fork the repository and submit a pull request.
 
@@ -49,3 +51,5 @@ For any questions or feedback, please open an issue on GitHub or reach out to me
 
 # Credits:
 GLSL FFT implementation: https://github.com/jbouny/fft-ocean/tree/master
+Clipper C#
+Poly2Tri
