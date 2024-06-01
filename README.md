@@ -3,6 +3,7 @@ Welcome to the Universal Water System (UWS) repository, a Unity plugin designed 
 
 ![awspic](https://github.com/anunknowperson/uws/assets/54563399/8a31832b-c8d4-4cc6-aca2-4b6aabb54c5c)
 
+Demonstration: https://youtu.be/Os9HMAd6IG0
 
 # Features
 - Oceans, Rivers, Lakes, Islands and Pools: Easily create and customize various water bodies using a robust spline-based system.
