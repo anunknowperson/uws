@@ -12,6 +12,7 @@ Welcome to the Universal Water System (UWS) repository, a Unity plugin designed 
 - Light Reflection.
 - Realtime QuadTree LOD for big worlds.
 - Automatic flowmap generation.
+- Manual flowmap editing on all water surfaces.
 - Water decals - Put foam or random pictures over water surface! Decals can blend and also override water surface height.
 - Automatic height decals placement on the beginnings and ends of the rivers.
 - User-Friendly Tools: Intuitive tools within the Unity editor for seamless integration and customization.
@@ -56,6 +57,7 @@ This project is not production-ready and is currently incomplete!
 - There can be crashes on unsupported settings values.
 - Overall, there are some problems with shaders visual appereance.
 - Reflection Camera spam on each scene reopen in editor (easiest to fix).
+- For some reason, flowmap editing button is overriden by some editor actions.
 
 # Getting Started
 To get started with UWS, create UWS folder in your project Assets folder and clone repository content into it.
