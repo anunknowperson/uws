@@ -1,7 +1,7 @@
 # UWS - Universal Water System
 Welcome to the Universal Water System (UWS) repository, a Unity plugin designed to add water surfaces such as oceans, rivers, and land using spline union and intersection. This system is inspired by the water system in Unreal Engine, offering powerful tools and flexible implementations for different platforms.
 
-![awspic](https://github.com/anunknowperson/uws/assets/54563399/58a53e05-9bfe-4c6a-9240-cd5d84528d5a)
+![awspic](https://github.com/anunknowperson/uws/assets/54563399/8a31832b-c8d4-4cc6-aca2-4b6aabb54c5c)
 
 
 # Features
