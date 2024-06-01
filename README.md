@@ -12,7 +12,7 @@ Welcome to the Universal Water System (UWS) repository, a Unity plugin designed 
 - Light Reflection.
 - Realtime QuadTree LOD for big worlds.
 - Automatic flowmap generation.
-- Water decals - Put foam or random pictures over water surface!
+- Water decals - Put foam or random pictures over water surface! Decals can blend and also override water surface height. 
 - User-Friendly Tools: Intuitive tools within the Unity editor for seamless integration and customization.
 - Shaders for various targets: Setup once and run across various platforms.
 
